@@ -1,0 +1,72 @@
+co2_e,CO2,0.0107215,44.0095
+hco3_e,Bicarbonate,1.72733,61.01684
+no2_e,Nitrite,0,46.0055
+no3_e,Nitrate,0.024535588,62.0049
+nh4_e,NH4+,0.000993988,18.03846
+btn_e,Biotin,0.000001025,243.3027
+fe2_e,Fe2+,0.0117,55.845
+h_e,H+,1000000,1.00794
+h2o_e,H2O,1000000,18.01528
+o2_e,Oxygen,0.225,31.9988
+pi_e,Phosphate,0.016399172,95.979301
+na1_e,Sodium cation,469.06,22.98977
+so4_e,Sulfate,28.8,96.0626
+mg2_e,Magnesium cation,52.82,24.305
+glyclt_e,Glycolate,0,75.04342
+slnt_e,Selenite,0,126.9582
+cl_e,Chloride,545.86,35.453
+thm_e,Thiamine,0.000148,265.35458
+fol_e,Folate,0,439.38158
+co_e,Carbon monoxide,0,28.0101
+cyan_e,Cyanide ion,0,26.0174
+cynt_e,Cyanate,0,42.0168
+tcynt_e,Thiocyanate,0,58.0824
+lac__D_e,D-Lactate,0,89.07
+etoh_e,Ethanol,0,46.06844
+urea_e,Urea,0,60.05526
+cncbl3_e,Cyanocob(III)alamin,1.85E-07,1355.365181
+dmsp_e,3-(dimethylsulfonio)propanoate,0,134.1967
+glyb_e,Betaine,0,117.14634
+Nactaur_e,N-acetyltaurine,0,166.17562
+aqcobal_e,Aquacob(III)alamin,0,1347.363061
+frmd_e,Formamide,0,45.04062
+urate_e,Urate,0,168.11026
+ac_e,Acetate,0,59.04402
+chol_e,Choline,0,104.17076
+ura_e,Uracil,0,112.08676
+xan_e,Xanthine,0,152.11086
+uacgam_e,UDP-N-acetyl-alpha-D-glucosamine,0,605.337822
+glu__L_e,L-Glutamate,0,146.12132
+asp__L_e,L-Aspartate,0,132.09474
+dhps_e,"(S)-2,3-dihydroxypropane 1-sulfonate",0,155.14968
+for_e,Formate,0,45.01744
+ile__L_e,L-Isoleucine,0,131.17292
+leu__L_e,L-Leucine,0,131.17292
+val__L_e,L-Valine,0,117.14634
+asn__L_e,L-Asparagine,0,132.11792
+ala__L_e,L-Alanine,0,89.09318
+gln__L_e,L-Glutamine,0,146.1445
+his__L_e,L-Histidine,0,155.15456
+ser__L_e,L-Serine,0,105.09258
+thr__L_e,L-Threonine,0,119.11916
+gly_e,Glycine,0,75.0666
+pro__L_e,L-Proline,0,115.13046
+photon410_e,Photon (400-420 nm),1000000,0
+photon430_e,Photon (420-440 nm),1000000,0
+photon450_e,Photon (440-460 nm),1000000,0
+photon470_e,Photon (460-480 nm),1000000,0
+photon490_e,Photon (480-500 nm),1000000,0
+photon510_e,Photon (500-520 nm),1000000,0
+photon530_e,Photon (520-540 nm),1000000,0
+photon550_e,Photon (540-560 nm),1000000,0
+photon570_e,Photon (560-580 nm),1000000,0
+photon590_e,Photon (580-600 nm),1000000,0
+photon610_e,Photon (600-620 nm),1000000,0
+photon630_e,Photon (620-640 nm),1000000,0
+photon650_e,Photon (640-660 nm),1000000,0
+photon670_e,Photon (660-680 nm),1000000,0
+photon690_e,Photon (680-700 nm),1000000,0
+sio4h4_e,Silicic acid,0.036793576,96.11486
+atp_e,ATP,0,503.149263
+amp_e,AMP,0,345.205341
+pppi_e,Triphosphate,0,253.923223

@@ -1,0 +1,42 @@
+## Config file for Thaps monoculture
+## 06/22/20
+##### Input Parameters
+project_name = ThapsGrowth
+input_dir = HVT_DATA
+model_dir = Models
+csv_dir = Media
+media_csv = Liefer_media_bg1.csv
+cellsmL_csv = sample_mean.csv
+Vmax_csv = Vmax_thaps.csv
+Km_csv = Km_thaps.csv
+biomass_comp = ['biomass_comp.csv']
+oxygen = O2.csv
+f = 1.02
+dark_respiration = [-0.061322432,-0.021101554] #95% CI
+CEF_ub = 0.380
+GAM_val = 2217
+slices = 1
+light_source = cool_white
+surface_area = 0.20276
+Ic = 22.07865672
+abs_coeff = 0.0169
+phi_m = 0.056
+system = mixed
+species = ['Thaps_ML_model']
+conversion_factor = 1000
+error_tol = 1e-8
+#
+##### Growth Model Parameters
+totaltime = 240
+delta_t = 3
+I = 85.0
+L_D = '12:12'
+init_bio_relative = [1]
+#init_bio_abs
+biomass_order = 0.003039409
+Vmax = 0.2
+km = 0.05
+##### Output Parameters
+output_dir = RESULTS
+output_filename = final_results_102PQ
+verbose = 1
